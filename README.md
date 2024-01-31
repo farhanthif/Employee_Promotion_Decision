@@ -1,1 +1,2 @@
-# Employee_Promotion_Decision
+# Enhancing Employee Promotion Decisions Using Comprehensive Machine Learning
+This project delves into the development of a sophisticated machine learning model for an employee promotion system within a company. Utilizing key performance index data for each employee, the study aims to meticulously process the information to identify the model that exhibits the highest performance in predicting and determining deserving candidates for promotion.
